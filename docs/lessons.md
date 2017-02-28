@@ -76,9 +76,8 @@ Setup:
     - Download [GitHub Desktop](https://desktop.github.com)
     - Download [Atom](https://atom.io)
     - Make sure you have registered at [Github.com](https://github.com/join)
-* Introduce [DHBox](dhbox.org)^
 * Revisit Last Week's Discussion
-* Initial Project Pitches
+* Initial Project Discussion
 * Project Management
     - [GitHub](https://github.com/)
     - [Project Starter Template](https://github.com/thePortus/his4936-starter)

@@ -93,7 +93,7 @@
 ### Week 9: Text Analysis
 
 
-- TBD
+- (ALL) Project Proposal & Source Analysis Due!
 
 ---
 
