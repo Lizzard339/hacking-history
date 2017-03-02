@@ -10,7 +10,7 @@
 ---
 
 ### Week 2: First Steps
-Setup:
+* Setup:
     - Install [Slack](https://slack.com)
 * Lecture: [Computational Development](https://theportus.github.io/presentations/computer_evolution.html#/)
 * Lecture: [Hacking History](https://theportus.github.io/presentations/hacking.html#/)
@@ -76,8 +76,6 @@ Setup:
     - Download [GitHub Desktop](https://desktop.github.com)
     - Download [Atom](https://atom.io)
     - Make sure you have registered at [Github.com](https://github.com/join)
-* Revisit Last Week's Discussion
-* Initial Project Discussion
 * Project Management
     - [GitHub](https://github.com/)
     - [Project Starter Template](https://github.com/thePortus/his4936-starter)
@@ -92,17 +90,18 @@ Setup:
 
 ---
 
-### Week 8: Visualization and Planning
+### Week 8: Text and Visualizations
 
+* Text Analysis (Joint Meeting with Prof. Jones' Class)
+    -
 * Setup
-    - Sign up for [Asana](https://www.asana.com)
+    - Start up Tableau
+* Narrowing in on Projects
 * Discussing Your Visualizations, 'Good' and 'Bad' Choices
-* Choosing Roles
-* Github Branching
 
 ---
 
-### Week 9: Text Analysis
+### Week 9: Starting Your Projects
 
 ---
 
