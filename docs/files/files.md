@@ -17,9 +17,10 @@ From the ESPY Database, includes most known executions in N.A. going back to the
 
 ## War Diaries - Baghdad 2004-2005
 
-An excerpt from the WikiLeaks 'War Diaries' database, includes only data from Baghdad Jan 1 2004 - Dec 31 2005
+An excerpt from the WikiLeaks 'War Diaries' database, includes only data from Baghdad Jan 1 2004 - Dec 31 2005, as well as a number of txt files containing the incident reports.
 
 * [war_diaries_baghdad_2004_2005.csv](war_diaries_baghdad_2004_2005.csv)
+* [war_diaries_txt_abridged.zip](war_diaries_txt_abridged.zip)
 
 ## USF in the News 2014
 
@@ -44,4 +45,11 @@ A network graph of the people appearing in the ASC (Anglo-Saxon Charter) databas
 ## Florida Postcards
 
 Raw data concerning a number of Florida Postcards, in need of serious cleaning.
+
 * [fl_postcards.xlsx](fl_postcards.xlsx)
+
+## Eleusis Inscriptions
+
+Abridged data from the inscriptions of the ancient Athenian sanctuary of Eleusis
+
+* [eleusis_abridged.xlsx](eleusis_abridged.xlsx)
