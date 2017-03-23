@@ -10,7 +10,6 @@ You can install them all at once, or gradually over the course. Feel free to pla
 4. [Slack Team Messenger](#4-slack-team-messenger)
 5. [Tableau Visualization Platform](#5-tableau-visualization-platform)
 6. [Google OpenRefine Data Scrubber](#6-google-openrefine-data-scrubber)
-7. [Trifacta Data Wrangler](#7-trifacta-data-wrangler)
 
 ---
 
@@ -105,14 +104,5 @@ process.env.PATH = ['/usr/local/bin/', process.env.PATH].join(':')
 
 1. Head to [OpenRefine](http://openrefine.org/) and download the application.
 2. You have to manually move the application to the location where you want to install it.
-
----
-
-## 7 Trifacta Data Wrangler
-
-*optional*
-
-1. Head to [Trifacta](https://www.trifacta.com/start-wrangling/), register for a free account. Download the application, verify your email.
-2. Start the Trifacta application and enter your account username and password
 
 ---

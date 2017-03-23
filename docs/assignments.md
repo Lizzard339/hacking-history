@@ -90,16 +90,14 @@
 
 ---
 
-### Week 9: Text Analysis
+### Week 9: CLASS CANCELLED
 
-
-- (ALL) Project Proposal & Source Analysis Due!
 
 ---
 
-### Week 10: Developing a Workflow
+### Week 10: Text and Visualization, Continued
 
-- TBD
+- Review Textbook, pp. 159-194
 
 ---
 

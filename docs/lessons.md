@@ -10,7 +10,7 @@
 ---
 
 ### Week 2: First Steps
-Setup:
+* Setup:
     - Install [Slack](https://slack.com)
 * Lecture: [Computational Development](https://theportus.github.io/presentations/computer_evolution.html#/)
 * Lecture: [Hacking History](https://theportus.github.io/presentations/hacking.html#/)
@@ -76,8 +76,6 @@ Setup:
     - Download [GitHub Desktop](https://desktop.github.com)
     - Download [Atom](https://atom.io)
     - Make sure you have registered at [Github.com](https://github.com/join)
-* Revisit Last Week's Discussion
-* Initial Project Discussion
 * Project Management
     - [GitHub](https://github.com/)
     - [Project Starter Template](https://github.com/thePortus/his4936-starter)
@@ -92,21 +90,44 @@ Setup:
 
 ---
 
-### Week 8: Visualization and Planning
+### Week 8: Text and Visualizations
 
+* Text Analysis (Joint Meeting with Prof. Jones' Class)
+    -
 * Setup
-    - Sign up for [Asana](https://www.asana.com)
+    - Start up Tableau
+* Narrowing in on Projects
 * Discussing Your Visualizations, 'Good' and 'Bad' Choices
-* Choosing Roles
-* Github Branching
 
 ---
 
-### Week 9: Text Analysis
+### Week 9: CLASS CANCELLED
 
 ---
 
-### Week 10: Developing a Workflow
+### Week 10: Text and Visualization, Continued
+
+* Setting Up
+    - Download [http://www.laurenceanthony.net/software/antconc/](AntConc)
+* What is a Digital Bibliography? What is the proposal?
+    - Acceptable Sources
+* Discussing Visualization Choices, Continued
+    - [ESPY Data Cleaned](files/espy_executions.csv)
+    - [Eleusis Abridged](files/eleusis_abridged.xlsx)
+* Planning for Failure
+    - Planning out steps
+    - Think out 'passing the ball'
+    - Backup plans
+    - Describing Failure
+    - What kinds of failure?
+* Git Cloning to Work Together
+    - Clone project
+    - Use branches
+    - Markdown
+    - Pull request
+* Text Tools: AntConc
+    - [War Diaries Reports](files/war_diaries_txt_abridged.zip)
+* Database Concepts
 
 ---
 
