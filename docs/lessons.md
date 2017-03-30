@@ -138,6 +138,9 @@
         - [GitHub BootCamp](https://help.github.com/categories/bootcamp/)
         - [GitHub Guides](https://guides.github.com/)
 * Discussing Visualization Choices, Continued
+    - Tableau Alternatives
+        - [Raw Graphs](http://rawgraphs.io/)
+        - [Plot.ly](https://plot.ly/)
     - [ESPY Data Cleaned](files/espy_executions.csv)
     - [Eleusis Abridged](files/eleusis_abridged.xlsx)
 * Text Tools: AntConc
