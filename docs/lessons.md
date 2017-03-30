@@ -107,13 +107,8 @@
 
 ### Week 10: Text and Visualization, Continued
 
-* Setting Up
-    - Download [http://www.laurenceanthony.net/software/antconc/](AntConc)
 * What is a Digital Bibliography? What is the proposal?
     - Acceptable Sources
-* Discussing Visualization Choices, Continued
-    - [ESPY Data Cleaned](files/espy_executions.csv)
-    - [Eleusis Abridged](files/eleusis_abridged.xlsx)
 * Planning for Failure
     - Planning out steps
     - Think out 'passing the ball'
@@ -125,13 +120,30 @@
     - Use branches
     - Markdown
     - Pull request
-* Text Tools: AntConc
-    - [War Diaries Reports](files/war_diaries_txt_abridged.zip)
-* Database Concepts
 
 ---
 
 ### Week 11: Proposals and Problem Solving
+
+* Setting Up
+    - Download [http://www.laurenceanthony.net/software/antconc/](AntConc)
+* Markdown Continued
+    - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - [Dillinger.io](http://dillinger.io/)
+    - [Atom's Markdown Preview](https://atom.io/packages/markdown-preview)
+    - Linking to local files & images
+* GitHub Continued
+    - GitHub Resources
+        - [Hello World GitHub Tutorial](https://guides.github.com/activities/hello-world/)
+        - [GitHub BootCamp](https://help.github.com/categories/bootcamp/)
+        - [GitHub Guides](https://guides.github.com/)
+* Discussing Visualization Choices, Continued
+    - [ESPY Data Cleaned](files/espy_executions.csv)
+    - [Eleusis Abridged](files/eleusis_abridged.xlsx)
+* Text Tools: AntConc
+    - [War Diaries Reports](files/war_diaries_txt_abridged.zip)
+* Database Concepts & Data Modeling
+* Trouble-Shooting Projects
 
 ---
 
