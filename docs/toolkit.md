@@ -78,8 +78,15 @@
 
 ## Journals
 
+[Debates in the Digital Humanities](http://dhdebates.gc.cuny.edu/)
 [Digital Humanities Quarterly](http://digitalhumanities.org/dhq/)
-
+[Journal of the Digital Humanities](http://journalofdigitalhumanities.org/)
+[Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
+[Digital Studies](http://www.digitalstudies.org/ojs/index.php/digital_studies)
+[Digital Literary Studies](https://journals.psu.edu/dls)
+[Journal of Cultural Analytics](http://culturalanalytics.org/)
+[Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/)
+[DH Commons Journal](http://dhcommons.org/journal/2016)
 ---
 
 ## Organizations
