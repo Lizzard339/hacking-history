@@ -105,7 +105,7 @@
 
 ---
 
-### Week 10: Text and Visualization, Continued
+### Week 10: Planning and GitHub
 
 * What is a Digital Bibliography? What is the proposal?
     - Acceptable Sources
@@ -123,7 +123,7 @@
 
 ---
 
-### Week 11: Proposals and Problem Solving
+### Week 11: GitHub and Markdown Continued
 
 * Setting Up
     - Download [http://www.laurenceanthony.net/software/antconc/](AntConc)
@@ -137,20 +137,27 @@
         - [Hello World GitHub Tutorial](https://guides.github.com/activities/hello-world/)
         - [GitHub BootCamp](https://help.github.com/categories/bootcamp/)
         - [GitHub Guides](https://guides.github.com/)
-* Discussing Visualization Choices, Continued
-    - Tableau Alternatives
-        - [Raw Graphs](http://rawgraphs.io/)
-        - [Plot.ly](https://plot.ly/)
-    - [ESPY Data Cleaned](files/espy_executions.csv)
-    - [Eleusis Abridged](files/eleusis_abridged.xlsx)
-* Text Tools: AntConc
-    - [War Diaries Reports](files/war_diaries_txt_abridged.zip)
-* Database Concepts & Data Modeling
-* Trouble-Shooting Projects
+* Tableau Alternatives
+    - [Raw Graphs](http://rawgraphs.io/)
+    - [Plot.ly](https://plot.ly/)
+* Trouble-shooting Projects
 
 ---
 
 ### Week 12: Pivoting Your Projects
+
+* Tableau and Visualization Choices, Continued
+    - [ESPY Data Cleaned](files/espy_executions.csv)
+    - [Eleusis Abridged](files/eleusis_abridged.xlsx)
+    - Formatting
+    - Titles
+    - Calculated Fields
+    - Renaming Columns
+    - Sets, Bins, Et.c.
+* Text Tools: AntConc
+    - [War Diaries Reports](files/war_diaries_txt_abridged.zip)
+* Database Concepts & Data Modeling
+* Trouble-Shooting Projects
 
 ---
 
