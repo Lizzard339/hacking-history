@@ -163,7 +163,7 @@
 
 ### Week 13: The Power of the Digital Archive
 
-* Power of the Archive: Constructing Digital Data
+* [Power of the Archive: Constructing Digital Data](https://theportus.github.io/presentations/presentations/hacking/archive.html)
 * Tableau and Visualization Choices, Continued
     - [ESPY Data Cleaned](files/espy_executions.csv)
     - [Eleusis Abridged](files/eleusis_abridged.xlsx)
