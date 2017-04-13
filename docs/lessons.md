@@ -125,8 +125,6 @@
 
 ### Week 11: GitHub and Markdown Continued
 
-* Setting Up
-    - Download [http://www.laurenceanthony.net/software/antconc/](AntConc)
 * Markdown Continued
     - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - [Dillinger.io](http://dillinger.io/)
@@ -146,6 +144,8 @@
 
 ### Week 12: Pivoting Your Projects
 
+* Setting Up
+    - Download [http://www.laurenceanthony.net/software/antconc/](AntConc)
 * Tableau and Visualization Choices, Continued
     - [ESPY Data Cleaned](files/espy_executions.csv)
     - [Eleusis Abridged](files/eleusis_abridged.xlsx)
@@ -162,6 +162,17 @@
 ---
 
 ### Week 13: The Power of the Digital Archive
+
+* Power of the Archive: Constructing Digital Data
+* Tableau and Visualization Choices, Continued
+    - [ESPY Data Cleaned](files/espy_executions.csv)
+    - [Eleusis Abridged](files/eleusis_abridged.xlsx)
+    - Calculated Fields
+    - Renaming Columns
+    - Sets, Bins, Et.c.
+* [Changing Your Markdown Theme](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
+* Publishing on [readthedocs](https://readthedocs.org)
+* Trouble-Shooting Projects
 
 ---
 
