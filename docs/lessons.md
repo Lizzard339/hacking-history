@@ -178,8 +178,21 @@
 
 ### Week 14: Bringing the Pieces Together
 
+* What are the Digital Humanities?
+* The Maker Movement
+    - [Tampa Hackerspace](http://tampahackerspace.com/)
+    - [Arduino](https://www.arduino.cc/)
+* How to write online
+* Slack channel, opt in/out for the future
+* Skills we have learned, and where to go from here on your own
+* Tableau Continued, Volunteering Datasets
+* Trouble-Shooting Projects
+
 ---
 
 ### Week 15: Discussing Your Journey
+
+* How to write about your experience
+* Sharing Your Troubles and Triumphs
 
 ---
