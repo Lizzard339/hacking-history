@@ -192,7 +192,9 @@
 
 ### Week 15: Discussing Your Journey
 
-* How to write about your experience
-* Sharing Your Troubles and Triumphs
+* Sharing Troubles and Triumphs
+* Final Thoughts
+* Share your data for future classes
+* Trouble-shooting
 
 ---
