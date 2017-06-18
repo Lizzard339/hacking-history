@@ -3,6 +3,7 @@
 
 Examples of Past Student Projects
 
+* [An Teanga Sean: The Celtic Languages](http://an-teanga-sean-the-celtic-languages.readthedocs.io/)
 * [Exploring the Memorials at Westminster Abbey](http://www.theportus.com/classroom/exploring-the-memorials-at-westminster-abbey/)
 * [Overcoming the Challenges of Digital Research](http://www.theportus.com/classroom/overcoming-the-challenges-of-digital-research-a-tutorial/)
 * [Web Scraping and OpenRefine](http://www.theportus.com/classroom/tutorial-web-scraping-and-openrefine/)
