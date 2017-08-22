@@ -3,9 +3,11 @@
 ### Week 1: What are the Digital Humanities?
 * Naive Learning: The Dangers of Big Data
 * Bit Dungeon Exercise
+* Email List, using alternate emails
 * What is this Class, What is Digital Humanities?
-* Navigating the Terminal
-    - ls, cd, (and other commands)
+* Visualizing USF Stories, an Example of What You Can Do
+* Setting Up Your Computer, Setting Up for Class
+* Navigating the Terminal, CSVs, basic concepts of programming
 
 ---
 
