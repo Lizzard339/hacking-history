@@ -12,6 +12,7 @@
 ---
 
 ### Week 2: First Steps
+* Setting Up For Class, Conferences and Checking the Workbook
 * Lecture: [Computational Development](https://theportus.github.io/presentations/hacking/computer_evolution.html#/)
 * Python Basics
     - Command-line / Script / Compiled code
