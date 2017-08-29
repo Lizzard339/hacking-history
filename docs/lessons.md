@@ -12,26 +12,29 @@
 ---
 
 ### Week 2: First Steps
-* Setup:
-    - Install [Slack](https://slack.com)
-* Lecture: [Computational Development](https://theportus.github.io/presentations/computer_evolution.html#/)
-* Lecture: [Hacking History](https://theportus.github.io/presentations/hacking.html#/)
-* Talking to your Classmates: Slack
-* Visualizing History
-    - Excel & Pivot Tables
-    - Tableau
-
----
-
-### Week 3: Demystifying Programming
-* Setup:
-    - Sign up for [DHBox](https://dhbox.org)
+* Lecture: [Computational Development](https://theportus.github.io/presentations/hacking/computer_evolution.html#/)
 * Python Basics
     - Command-line / Script / Compiled code
     - Variables, Conditionals
     - List, Dictionaries
     - Loops, & Functions
     - Objects(preview)
+* Working with Slack
+* Lecture: [Hacking History](https://theportus.github.io/presentations/hacking/hacking.html#/)
+* Visualizing History
+    - What is Humanities Data?
+    - Excel & Pivot Tables
+    - Tableau
+
+---
+
+### Week 3: GitHub
+* Setup
+    * Sign up for a [Github Account](https://github.com/join)
+* Local Repositories
+* Remote Repositories
+* Branches
+* Forking/Cloning
 
 ---
 
@@ -52,9 +55,6 @@
 ### Week 5: Scrubbing and Scraping
 * Setup
     - Download [OpenRefine](http://openrefine.org/download.html)
-    - Sign up for a [Github Account](https://github.com/join)
-* Projects
-    - Slack Straw poll over roles
 * [Webscraper](https://webscraper.io): Trying Different Sites
     - [Florida Memory: WPA Churches](https://www.floridamemory.com/collections/churchrecords/)
     - [PHI Greek Epigraphy](http://epigraphy.packhum.org/)
